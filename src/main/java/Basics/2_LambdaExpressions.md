@@ -10,7 +10,7 @@
 * The arrow operator to separate the parameters and body
 * Function body, parenthesis and return can be omitted if there is only one statement
 
-####Syntax examples:
+#### Syntax examples:
 * No parameter: `() →System.out.println(“Nothing”)`
 * One parameter: `x →x+2`
 * Two parameters: `(x,y) →x+y`
