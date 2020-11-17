@@ -20,5 +20,5 @@ Anonymous classes in Java are classes with no name. They are just syntactic suga
 * Anonymous class expression requires the new operator, the name of an interface to implement or a class to extend, parentheses that contain the arguments to a constructor, and a class declaration body.
 * It cannot have constructors (instance initializers are used instead, as required)
 * Since anonymous classes are like local classes, they also support capturing variables (they behave like closures — a closure is a block of code that can be referenced and passed around with access to the variables of the enclosing scope).
-* Only local variables that are final or effectively final can be accessed (this also applies to Lambdas – to be discussed later — and also falls along the principles of functional programming where state could be changed by a function if we assume an anonymous class is just used as a replacement of a block of code without any state).
+* Only local variables that are final or effectively final can be accessed (this also applies to io.github.soheshts.Lambdas – to be discussed later — and also falls along the principles of functional programming where state could be changed by a function if we assume an anonymous class is just used as a replacement of a block of code without any state).
 

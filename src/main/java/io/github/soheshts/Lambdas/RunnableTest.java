@@ -1,4 +1,4 @@
-package Lambdas;
+package io.github.soheshts.Lambdas;
 
 /*
 Author: Sohesh TS
@@ -8,7 +8,7 @@ public class RunnableTest {
     public static void main(String[] args) {
         System.out.println("runnable test");
         /*Anonymous runnable class
-        * No need to declare a new class to implement run()
+         * No need to declare a new class to implement run()
          */
         Runnable r1 = new Runnable() {
             public void run() {
@@ -16,9 +16,9 @@ public class RunnableTest {
             }
         };
         /*
-        * Lambda expression is used
-        * (parameters) -> {body}
-        * */
+         * Lambda expression is used
+         * (parameters) -> {body}
+         * */
         Runnable r2 = () -> System.out.println("Hello World two");
         r1.run();
         r2.run();
