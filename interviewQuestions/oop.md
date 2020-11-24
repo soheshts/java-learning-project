@@ -6,6 +6,7 @@ Final keyword in java is used to restrict usage of variable, class and method.
 Variable: Value of Final variable is constant, you can not change it.
 Method: you can’t override a Final method.
 Class: you can’t inherit from Final class.
+
 ---
 * When is the super keyword used?
  
@@ -14,6 +15,7 @@ super keyword is used to refer:
 immediate parent class constructor,
 immediate parent class variable,
 immediate parent class method.
+
 ---
 * String vs String builder vs String buffer
 
@@ -84,6 +86,7 @@ It can be passed as an argument in the method call.
 It can be passed as argument in the constructor call.
 Used to return the current class instance.
 Used to invoke current class method (implicitly)
+
 ---
 
 What is object cloning?
@@ -102,7 +105,9 @@ Differences between HashMap and HashTable in Java.
 
 Why is Java not pure Object-oriented?
 Java is not considered pure Object-oriented because it supports primitive data-types such as boolean, byte, char, int, float, double, long, short.
+
 ---
+
 What is Inheritance?
 
 Inheritance means one class can extend to another class. So that the codes can be reused from one class to another class. The existing class is known as the Super class whereas the derived class is known as a sub class.
