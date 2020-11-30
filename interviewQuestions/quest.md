@@ -1,4 +1,4 @@
-##Section1 - 45mins
+## Section1 - 45mins
 * Singleton - how to create them, make them threadsafe.
 * runtime polymorphsm with example
 * throwing exception
@@ -7,7 +7,7 @@
 * ways of creating string
 
 
-##Section 2 - 1hr
+## Section 2 - 1hr
 * Project stuffs
 * RabbitMQ
 * Front end framework used?
