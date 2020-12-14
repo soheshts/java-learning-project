@@ -21,3 +21,10 @@
 * Why leaving current company?
 * Have experience in containers?
 
+##Section 1-Manju
+* how to get the instances at runtime in java ->(ans) public static Runtime getRuntime() : This method returns the instance or Runtime object associated with the current Java application; freeMemory() : This method returns the amount of free memory in the JVM
+* polymorphism, super keyword, predict outputs
+* try-catch-finally
+* how to make customized immutable class
+* Immplemation of various design pattern corresponding to the situations
+* How to restict class loading during runtime -> (ans) Loading a class dynamically with the help of  ClassLoader and call its loadClass() method.
