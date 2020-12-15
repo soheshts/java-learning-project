@@ -21,7 +21,7 @@
 * Why leaving current company?
 * Have experience in containers?
 
-##Section 1-Manju
+## Section 1-Manju
 * how to get the instances at runtime in java ->(ans) public static Runtime getRuntime() : This method returns the instance or Runtime object associated with the current Java application; freeMemory() : This method returns the amount of free memory in the JVM
 * polymorphism, super keyword, predict outputs
 * try-catch-finally
