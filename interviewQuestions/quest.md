@@ -28,3 +28,29 @@
 * how to make customized immutable class
 * Immplemation of various design pattern corresponding to the situations
 * How to restict class loading during runtime -> (ans) Loading a class dynamically with the help of  ClassLoader and call its loadClass() method.
+
+## Section 1 - Karthik
+○About us
+○Rate yourself in Core Java
+○Explain Project
+○String, String builder and Buffer
+○GIT and its features 
+○Singleton class and program
+○try catch throw throws finally
+○Arraylist and Linked list
+○Arraylist and Set
+○Autowire and Profile annotations
+○Can we have java application without main. 
+○Inheritance extends example
+○Synchronize keyword
+○Springboot working and how implemented in ur project
+○Object class equals check
+○s1==s2 and s1.equals(s2)
+○final keyword
+○Static block
+
+## Section 1 - Karthik
+○About us
+○About Project
+○Why leaving current company
+○Ok to relocate
