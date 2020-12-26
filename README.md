@@ -8,3 +8,5 @@
 > Dzone: https://dzone.com/articles/all-things-java-8  
 
 > MKYong: https://mkyong.com/tutorials/java-8-tutorials/ 
+
+> Eureka: https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance
